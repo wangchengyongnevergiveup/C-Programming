@@ -1,0 +1,327 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="01-1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="01-2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="01-3.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="01-3game1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="01-3game2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="01-4.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="01-5.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="01-5.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="01-6.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="01-6test.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="01-6.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="01-6test.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="01-7.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="01-8.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="01-9.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="01-10.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="01-11.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="02-1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="02-2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="02-3.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="02-4.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="02-5.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="02-5test.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="02-6.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="02-6.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="02-7.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="03-1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="03-2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="03-2circle.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="03-2point.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="03-3.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="03-4.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="03-5.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="03-6.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="03-7.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="03-8.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="03-9.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="03-10.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="03-11.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="04-1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="04-2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="04-3.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="04-4.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="04-5.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="04-6.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="04-7.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="04-8.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="04-9.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="04-10.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="05-1myArray.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="05-1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="05-2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="05-3.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="05-4.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="05-5.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="05-6.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="06-1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="06-2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="06-3.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="06-4.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="06-5.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="06-6.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="06-7.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="06-8.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="06-9.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="06-10.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="06-11.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="06-3myString.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="07-1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="07-2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="07-3.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="07-4.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="08-1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="08-2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="08-3.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="08-4.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="08-5.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="08-6.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="08-7.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="08-8.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="08-9.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="08-10.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="08-11.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="08-12.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="09-1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="09-2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="09-3.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="09-4.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="09-5.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="09-6.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="09-7.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="09-8.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="09-9.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="01-3game1.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="01-3game2.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="02-5test.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="03-2circle.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="03-2point.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="05-1myArray.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="06-3myString.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="08-10person.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="08-12myArray.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
